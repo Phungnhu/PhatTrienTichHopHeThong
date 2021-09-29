@@ -1,4 +1,4 @@
-package TCPSocket;
+
 import java.io.*;
 import java.net.Socket;
 public class TCPEchoClient {
